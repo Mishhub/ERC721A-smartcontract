@@ -1,1 +1,1 @@
-# ERC721A-smartcontract
+Very Basic ERC721A Smartcontract
